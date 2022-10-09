@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <p>Welcome to my page! </br> I'm Crsitian, an Arificial Vision Engineer converted into Web 3.0 and Blockchain developer. Actually working as Solana developer.
 
 <p align="center">
-  <a href="https://github.com/cryptoSyndrome001"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=900&size=40&height=60&center=true&vCenter=true&lines=Full+Stack+Blockchain+Developer;Full+Stack+Web+3.0+Developer;1+Year+of++Solana+Dev+Experience;Always+Learning+New+Tech"></a>
+  <a href="https://github.com/cryptoSyndrome001"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=900&size=40&height=60&center=true&vCenter=true&lines=Full+Stack+Blockchain+Developer;Full+Stack+Web+3.0+Developer;Always+Learning+New+Tech"></a>
 </p>
 <br />
 
@@ -33,22 +33,40 @@ I have solid experience with Solana blockchain. Have rich experience with NFT mi
     <code><img alt="anchor" height="50" width="50" src="https://camo.githubusercontent.com/73b2a433c137f781fb799073ceba7ffded98a2cb5db2ce6aa7f7ab9eaeb547a9/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c" /></code>
     <code><img alt="phantom" height="50" width="50" src="https://play-lh.googleusercontent.com/ioQBlPQEZDoiNFTMj_CRMt7BlBREualoE1SChNtP6ZKrYhKXtMe-c5hqLB-hL4M2" /></code>
     <code><img alt="magiceden" height="50" width="50" src="https://www.freelogovectors.net/wp-content/uploads/2022/06/magic-eden-logo-freelogovectors.net_.png"></code>
-        <code><img alt="Javascript" height="50" width="50" src="https://img.icons8.com/color/2x/javascript.png"/></code>
-        <code><img alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/2x/typescript.png"></code>  
-        <code><img alt="Rust" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" /></code>
-        <code><img alt="React" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" /></code>
-    <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
+    <code><img alt="Javascript" height="50" width="50" src="https://img.icons8.com/color/2x/javascript.png"/></code>
+    <code><img alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/2x/typescript.png"></code>  
+    <code><img alt="Rust" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" /></code>
+    <code><img alt="React" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" /></code>
+    <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"     /></code>
     <code><img alt="C++" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" /></code>
-        <code><img alt="Linux" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" /></code>
+    <code><img alt="Linux" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" /></code>
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
         <code><img alt="Bash" height="50"  width="50"  src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" /></code>
-        <code><img alt="Raspberry Pi" height="50"  width="50" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" /></code>
+     </a>
+    <code><img alt="Raspberry Pi" height="50"  width="50" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" /></code>
     <code><img alt="TensorFlow" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" /></code>
     <code><img alt="Keras" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/keras.png" /></code>
-        <code><img  alt="Docker" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" /></code>
+    <code><img  alt="Docker" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" /></code>
 <!--     <code><img alt="MongoDB" height="50" width="50" src="https://img.icons8.com/color/2x/mongodb.png"/></code> -->
 <!--     <code><img alt="metamask" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1200px-MetaMask_Fox.svg.png"></code> -->
     
   </div>
 </div>
-<!-- <hr> 
+<!-- <hr>  -->
 <br />
+
+## 🤝 Contact with me 🤝
+   
+   <a href="https://discordapp.com/users/865926865557782550" >
+   <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/discord.svg' alt='cristian | discord' height="30" width="30"/>
+   </a>
+   <a href="https://t.me/Cristian_7_7" >
+   <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg' alt='cristian | telegram' height="30" width="30"/>
+<!--    </a>
+   <a href="https://join.skype.com/invite/Bk1f3pGPYuJF" >
+   <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/skype.svg' alt='supernova | skype' height="30" width="30"/>
+   </a> -->
+   <a href="mailto:cristianwpuig@gmail.com" >
+   <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/email.svg' alt='cristian | email' height="30" width="30"/>
+   </a>
+
