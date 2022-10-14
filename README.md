@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 <span>
 I'm a highly skilled Full Stack Blockchain developer. <br/>
-I have solid experience with Solana blockchain. Have rich experience with NFT mint, stake, raffle, marketplace, auction on Solana. Now I'm gonna build a beautiful future of blockchain world. 
+I have solid experience with Solana blockchain. Have experience with NFT mint, stake, raffle and dynamic NFTs on Solana. Now I'm gonna build a beautiful future of blockchain world. 
 </span><br/>
 
 
