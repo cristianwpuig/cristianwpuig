@@ -57,9 +57,9 @@ I have solid experience with Solana blockchain. Have experience with NFT mint, s
 
 ## 🤝 Contact with me 🤝
    
-   <a href="https://discordapp.com/users/865926865557782550" >
+<!--    <a href="https://discordapp.com/users/865926865557782550" >
    <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/discord.svg' alt='cristian | discord' height="30" width="30"/>
-   </a>
+   </a> -->
    <a href="https://t.me/Cristian_7_7" >
    <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg' alt='cristian | telegram' height="30" width="30"/>
 <!--    </a>
