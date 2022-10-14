@@ -31,12 +31,12 @@ I have solid experience with Solana blockchain. Have experience with NFT mint, s
   <div align="left">
     <code><img alt="solana" height="50" width="50" src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=023"></code>
     <code><img alt="anchor" height="50" width="50" src="https://camo.githubusercontent.com/73b2a433c137f781fb799073ceba7ffded98a2cb5db2ce6aa7f7ab9eaeb547a9/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c" /></code>
-    <code><img alt="phantom" height="50" width="50" src="https://play-lh.googleusercontent.com/ioQBlPQEZDoiNFTMj_CRMt7BlBREualoE1SChNtP6ZKrYhKXtMe-c5hqLB-hL4M2" /></code>
-    <code><img alt="magiceden" height="50" width="50" src="https://www.freelogovectors.net/wp-content/uploads/2022/06/magic-eden-logo-freelogovectors.net_.png"></code>
     <code><img alt="Javascript" height="50" width="50" src="https://img.icons8.com/color/2x/javascript.png"/></code>
     <code><img alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/2x/typescript.png"></code>  
     <code><img alt="Rust" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" /></code>
     <code><img alt="React" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" /></code>
+        <code><img alt="phantom" height="50" width="50" src="https://play-lh.googleusercontent.com/ioQBlPQEZDoiNFTMj_CRMt7BlBREualoE1SChNtP6ZKrYhKXtMe-c5hqLB-hL4M2" /></code>
+    <code><img alt="magiceden" height="50" width="50" src="https://www.freelogovectors.net/wp-content/uploads/2022/06/magic-eden-logo-freelogovectors.net_.png"></code>
     <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"     /></code>
     <code><img alt="C++" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" /></code>
     <code><img alt="Linux" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" /></code>
