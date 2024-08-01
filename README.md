@@ -20,7 +20,7 @@ I have solid experience with Solana blockchain. Have experience with NFT mint, s
     <code><img alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/2x/typescript.png"></code>  
     <code><img alt="Rust" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" /></code>
     <code><img alt="React" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" /></code>
-    <code><img alt="Next.js" height="50"  width="50" src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" /></code>
+    <code><img alt="Next.js" height="50"  width="50" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" /></code>
     <code><img alt="Node.js" height="50"  width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" /></code>
     <code><img alt="Solana" height="50" width="50" src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=023"></code>
     <code><img alt="EVM" height="50" width="50" src="https://cryptologos.cc/logos/ethereum-eth-logo.png"></code>
@@ -39,7 +39,7 @@ I have solid experience with Solana blockchain. Have experience with NFT mint, s
     <code><img alt="Keras" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/keras.png" /></code>
     <code><img  alt="Docker" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" /></code>
     <code><img alt="MongoDB" height="50" width="50" src="https://img.icons8.com/color/2x/mongodb.png"/></code>
-    <code><img alt="AWS" height="50" width="50" src="https://w7.pngwing.com/pngs/92/303/png-transparent-amazon-com-amazon-web-services-cloud-computing-amazon-s3-nrf-2019-retail-s-big-show-expo-cloud-computing-text-trademark-service-thumbnail.png"/></code>
+    <code><img alt="AWS" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png"/></code>
   </div>
 </div>
 <br />
