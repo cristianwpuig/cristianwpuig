@@ -30,7 +30,6 @@ I have solid experience with Solana blockchain. Have experience with NFT mint, s
 <div>
   <div align="left">
     <code><img alt="solana" height="50" width="50" src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=023"></code>
-    <code><img alt="anchor" height="50" width="50" src="https://camo.githubusercontent.com/73b2a433c137f781fb799073ceba7ffded98a2cb5db2ce6aa7f7ab9eaeb547a9/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c" /></code>
     <code><img alt="Javascript" height="50" width="50" src="https://img.icons8.com/color/2x/javascript.png"/></code>
     <code><img alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/2x/typescript.png"></code>  
     <code><img alt="Rust" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" /></code>
@@ -61,12 +60,12 @@ I have solid experience with Solana blockchain. Have experience with NFT mint, s
    <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/discord.svg' alt='cristian | discord' height="30" width="30"/>
    </a> -->
    <a href="https://t.me/Cristian_7_7" >
-   <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg' alt='cristian | telegram' height="30" width="30"/>
+   <img align='left' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png' alt='cristian | telegram' height="30" width="30"/>
 <!--    </a>
    <a href="https://join.skype.com/invite/Bk1f3pGPYuJF" >
    <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/skype.svg' alt='supernova | skype' height="30" width="30"/>
    </a> -->
    <a href="mailto:cristianwpuig@gmail.com" >
-   <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/email.svg' alt='cristian | email' height="30" width="30"/>
+   <img align='left' src='https://static.vecteezy.com/system/resources/previews/010/153/613/original/email-and-mail-icon-sign-symbol-design-free-png.png' alt='cristian | email' height="30" width="30"/>
    </a>
 
