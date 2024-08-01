@@ -21,6 +21,7 @@ I have solid experience with Solana blockchain. Have experience with NFT mint, s
     <code><img alt="Rust" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" /></code>
     <code><img alt="React" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" /></code>
     <code><img alt="Next.js" height="50"  width="50" src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" /></code>
+    <code><img alt="Node.js" height="50"  width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" /></code>
     <code><img alt="Solana" height="50" width="50" src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=023"></code>
     <code><img alt="EVM" height="50" width="50" src="https://cryptologos.cc/logos/ethereum-eth-logo.png"></code>
     <code><img alt="Solidity" height="50"  width="50" src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png" /></code>
